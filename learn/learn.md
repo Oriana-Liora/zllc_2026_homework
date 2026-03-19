@@ -1,1 +1,1 @@
-这段时间学习了实验室代码及框架，了解了iic，复习了can，uart，referee并加深认识。
+这段时间学习了实验室代码及框架，了解了iic，复习了git，can，uart，referee并加深认识。
